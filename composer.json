@@ -1,0 +1,11 @@
+{
+    "name": "labdockerize/phpfpm-caddy",
+    "autoload": {},
+    "authors": [
+        {
+            "name": "Tiago Lopes",
+            "email": "tiago.dweb@gmail.com"
+        }
+    ],
+    "require": {}
+}
